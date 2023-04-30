@@ -1,0 +1,1 @@
+SELECT * FROM supermarket.`dataset_supermarket_sales - data`;
